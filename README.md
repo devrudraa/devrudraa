@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm an accomplished frontend developer with a rich history of over four years in the ever-evolving field of web development. My journey began with a fascination for crafting digital experiences that seamlessly blend form and function. Over the years, I've honed my skills to create not just websites, but immersive and delightful user interfaces. What drives me is the intersection of design and code. I firmly believe that a well-executed design can spark emotion and engagement, and it's my job to translate those visions into reality through meticulous coding. My commitment to clean code and best practices ensures that every project I work on is not just visually appealing but also maintainable and scalable. \`Design Inspires, I Code Empires\`
+I'm an accomplished front-end developer with a history of over four years in the ever-evolving field of web development. My journey began with a fascination for crafting digital experiences seamlessly blending form and function. Over the years, I've honed my skills to create not just websites, but immersive and delightful user interfaces. What drives me is the intersection of design and code. I firmly believe that a well-executed design can spark emotion and engagement, and it's my job to translate those visions into reality through meticulous coding. My commitment to clean code and best practices ensures that every project I work on is visually appealing but also maintainable and scalable. \`Design Inspires, I Code Empires\`
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rudradev252@gmail.com](mailto:rudradev252@gmail.com)
-* 🧠  I'm learning Three JS
+* 🧠  Learning every day!
 * 🤝  I'm open to collaborating on Front-end projects
-* ⚡  Any thing that can be designed it can be coded!
+* ⚡ Anything that can be designed can be coded!
 
 ### Skills
 
